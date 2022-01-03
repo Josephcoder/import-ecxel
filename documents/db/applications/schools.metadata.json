@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"applications.schools"},{"v":2,"unique":true,"key":{"school_code":1},"name":"school_code_1","ns":"applications.schools","background":true}],"uuid":"c8704527860e46b28e48d95e56db6bad"}

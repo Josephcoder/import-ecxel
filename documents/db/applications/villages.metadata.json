@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"applications.villages"},{"v":2,"unique":true,"key":{"village_code":1},"name":"village_code_1","ns":"applications.villages","background":true}],"uuid":"a6b9c9049c3340cb900d847323815dac"}

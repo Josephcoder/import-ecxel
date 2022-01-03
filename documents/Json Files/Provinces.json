@@ -1,0 +1,37 @@
+[
+        {
+            "_id": "61cc413ceca5baa500a3338e",
+            "name": "Kigali",
+            "fullname": "Umujyi wa Kigali",
+            "code": "1",
+            "status": 1
+        },
+        {
+            "_id": "61cc419e95cdb71caff014ab",
+            "name": "South",
+            "fullname": "Amajyepfo",
+            "code": "2",
+            "status": 1
+        },
+        {
+            "_id": "61cc41dd95cdb71caff014ad",
+            "name": "West",
+            "fullname": "Iburengerazuba",
+            "code": "3",
+            "status": 1
+        },
+        {
+            "_id": "61cc421895cdb71caff014af",
+            "name": "North",
+            "fullname": "Amajyaruguru",
+            "code": "4",
+            "status": 1
+        },
+        {
+            "_id": "61cc425595cdb71caff014b1",
+            "name": "East",
+            "fullname": "Iburasirazuba",
+            "code": "5",
+            "status": 1
+        }
+    ]
